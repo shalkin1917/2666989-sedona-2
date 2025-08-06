@@ -2,7 +2,7 @@
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2666989).
 * Наставник: `Неизвестно`.
-* Сайт: [мой проект] : https://shalkin1917.github.io/2666989-sedona-2/ы
+* Сайт: [мой проект] : https://shalkin1917.github.io/2666989-sedona-2/
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
